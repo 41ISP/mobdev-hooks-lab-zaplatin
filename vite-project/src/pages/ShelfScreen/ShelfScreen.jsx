@@ -1,5 +1,5 @@
-import BookForm from '../../components/BookForm/BookForm'
-import BookList from '../../components/BookList/BookList'
+import BookForm from '/workspaces/mobdev-hooks-lab-zaplatin/vite-project/src/components/BookForm/BookForm.jsx'
+import BookList from '/workspaces/mobdev-hooks-lab-zaplatin/vite-project/src/components/BookList/BookList.jsx'
 
 export default function ShelfScreen({ 
   books, 
